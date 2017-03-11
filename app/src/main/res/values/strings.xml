@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Weight Loss Recepies</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="share">Share</string>
+    <string name="rate_app">Rate Us</string>
+    <string name="bug">Report Bug</string>
+    <string name="license">License</string>
+    <string name="dialog_title_licenses">License</string>
+    <string name="license_title_company">Next Innovation Soft</string>
+    <string name="license_company_website">http://nextinnovationsoft.com/</string>
+    <string name="license_company_mail">nissoftteam@gmail.com</string>
+    <string name="license_company_address">312/4/n 5th Floor First Colony, Mirpur 1, Dhaka-1216 ,Bangladesh</string>
+    <string name="banner_add_unit_id">ca-app-pub-1714609736931391/1198393664</string>
+    <string name="cheese_ipsum">A long Text</string>
+</resources>

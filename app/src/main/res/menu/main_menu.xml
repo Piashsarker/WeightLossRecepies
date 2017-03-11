@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/item_share"
+        android:orderInCategory="100"
+        android:icon="@android:drawable/ic_menu_share"
+        android:title="@string/share"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/item_rate_app"
+        android:orderInCategory="100"
+        android:icon="@android:drawable/star_big_on"
+        android:title="@string/rate_app"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/item_submit_bug"
+        android:orderInCategory="100"
+        android:icon="@android:drawable/stat_notify_error"
+        android:title="@string/bug"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/item_license"
+        android:orderInCategory="100"
+        android:icon="@android:drawable/sym_action_chat"
+        android:title="@string/license"
+        app:showAsAction="never" />
+</menu>
